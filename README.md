@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tydequez
-- 👀 I’m interested in learning 
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on  analytical projects
 - 📫 tydequez@live.com

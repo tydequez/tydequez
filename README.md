@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tydequez
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on  analytical projects
+- 💞️ I’m looking to collaborate on Projects
 - 📫 tydequez@live.com
 
 <!---
